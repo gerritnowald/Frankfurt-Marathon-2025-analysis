@@ -2,4 +2,6 @@
 
 ![](https://github.com/gerritnowald/Frankfurt-Marathon-2025-analysis/blob/main/finish_time_distribution.png)
 
+full analysis: https://github.com/gerritnowald/Frankfurt-Marathon-2025-analysis/blob/main/analysis.ipynb
+
 data taken from https://live.frankfurt-marathon.com/2023/
